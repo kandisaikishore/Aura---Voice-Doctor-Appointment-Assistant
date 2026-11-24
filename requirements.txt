@@ -1,0 +1,8 @@
+pipecat-ai[google,elevenlabs,silero]==1.17.0
+fastapi==0.165.0
+uvicorn[standard]==0.54.0
+python-multipart==0.0.34
+python-dotenv==1.2.4
+elevenlabs==2.80.0
+google-genai==3.6.1
+httpx==0.28.1
